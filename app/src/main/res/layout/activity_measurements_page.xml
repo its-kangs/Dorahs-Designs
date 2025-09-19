@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MeasurementsPage"
+    android:background="@drawable/bottombg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/selectedImageView"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/image_boarder" />
+
+
+        <EditText
+            android:id="@+id/inputBust"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/bust_inches"
+            android:textColorHint="@color/dark_gray"
+            android:textColor="@color/white"
+            android:inputType="numberDecimal"
+            android:padding="12dp"
+            android:background="@drawable/custom_edittext"/>
+
+        <EditText
+            android:id="@+id/inputWaist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/waist_inches"
+            android:textColorHint="@color/dark_gray"
+            android:textColor="@color/white"
+            android:inputType="numberDecimal"
+            android:padding="12dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/custom_edittext"/>
+
+        <EditText
+            android:id="@+id/inputHips"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hips_inches"
+            android:textColorHint="@color/dark_gray"
+            android:textColor="@color/white"
+            android:inputType="numberDecimal"
+            android:padding="12dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/custom_edittext"/>
+
+        <EditText
+            android:id="@+id/inputHeight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/height_inches"
+            android:textColorHint="@color/dark_gray"
+            android:textColor="@color/white"
+            android:inputType="numberDecimal"
+            android:padding="12dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/custom_edittext"/>
+
+        <EditText
+            android:id="@+id/inputshoulder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/Shoulder_inches"
+            android:textColorHint="@color/dark_gray"
+            android:textColor="@color/white"
+            android:inputType="numberDecimal"
+            android:padding="12dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/custom_edittext"/>
+
+        <EditText
+            android:id="@+id/inputArmLength"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/Arm_Length_inches"
+            android:textColorHint="@color/dark_gray"
+            android:textColor="@color/white"
+            android:inputType="numberDecimal"
+            android:padding="12dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/custom_edittext"/>
+
+        <Spinner
+            android:id="@+id/materialSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginBottom="16dp"
+            android:padding="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/custom_edittext"/>
+
+
+
+        <EditText
+            android:id="@+id/inputNotes"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/custom_edittext"
+            android:gravity="top"
+            android:hint="@string/special_instructions_or_notes"
+            android:inputType="textMultiLine"
+            android:padding="12dp"
+            android:textColor="@color/white"
+            android:textColorHint="@color/dark_gray" />
+
+        <Button
+            android:id="@+id/btnWatchTutorial"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/red"
+            android:text="@string/watch_tutorial"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/btnSaveMeasurements"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="20dp"
+            android:backgroundTint="@color/black"
+            android:padding="12dp"
+            android:text="@string/save_measurements"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+</ScrollView>

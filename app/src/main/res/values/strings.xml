@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Dorahs Designs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_string">This is less than 5 &lt;</string>
+    <string name="suit_icon_description">Icon that represents a suit.</string>
+    <string name="tagline_text">Custom Tailoring &amp; Repairs Made Easy</string>
+    <string name="grid_icon_description">Icon used in the icon grid.</string>
+    <string name="reset_your_password">Reset Your Password!</string>
+    <string name="enter_your_new_password_and_confirm_it_to_reset_your_password">Enter your new password and confirm it to reset your password.</string>
+    <string name="new_password">New password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="gallery_image">Gallery Image</string>
+    <string name="measurements">Measurements</string>
+    <string name="bust_inches">Bust (meters)</string>
+    <string name="waist_inches">Waist (meters)</string>
+    <string name="hips_inches">Hips (meters)</string>
+    <string name="height_inches">Height (inches)</string>
+    <string name="special_instructions_or_notes">Special instructions or notes</string>
+    <string name="save_measurements">Save Measurements</string>
+    <string name="preferred_material">Preferred Material</string>
+    <string name="Shoulder_inches">Shoulder (meters)</string> />
+    <string name="Arm_Length_inches">Arm Length (meters)</string>
+    <string name="watch_tutorial">Watch Tutorial</string>
+    <string name="dorah_s_designs">Dorah\'s Designs</string>
+    <string name="custom_tailoring_and_repairs_made_easy">Custom Tailoring And Repairs Made Easy</string>
+    <string name="gallery">Gallery</string>
+    <string name="login">Login</string>
+    <string name="get_started">Get Started</string>
+    <string name="get_custom_made_outfits_seamless_alterations_and_expert_tailoring_services_at_your_fingertips_let_s_bring_your_fashion_ideas_to_life">Get custom-made outfits ,seamless alterations and expert tailoring services at your fingertips.Let\'s bring your fashion ideas to life</string>
+    <string name="welcome_to_dorah_s_designs">Welcome To Dorah\'s Designs!</string>
+    <string name="profile">Profile</string>
+    <string name="measurement">Measurement</string>
+    <string name="custom_designs">Custom Designs</string>
+    <string name="message">Message</string>
+    <string name="welcome_back">Welcome Back !</string>
+    <string name="log_in_and_browse_designs_place_orders_and_track_your_tailoring_requests">Log in and browse designs,place orders and track your tailoring requests.</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="save_password">Save Password</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="location">Location</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="full_name">Full Name</string>
+    <string name="view_measurements">View Measurements</string>
+    <string name="change_password">Change Password</string>
+    <string name="logout">Logout</string>
+    <string name="create_an_account_and_place_orders_track_your_tailoring_requestss_and_explore_custom_designs">Create an account and place orders ,track your tailoring requestss and explore custom designs.</string>
+    <string name="register">Register</string>
+    <string name="have_an_account_login">Have an account? Login</string>
+    <string name="name">Name</string>
+    <string name="default_design_name">Unknown Design</string>
+    <string name="unit_price_format">Unit Price: %1$s</string>
+    <string name="error_quantity_required">Quantity is required.</string>
+    <string name="error_quantity_positive">Quantity must be a positive number.</string>
+    <string name="error_invalid_quantity">Invalid quantity. Please enter a number.</string>
+    <string name="error_street_required">Street address is required.</string>
+    <string name="error_city_required">City is required.</string>
+    <string name="error_postal_required">Postal code is required.</string>
+    <string name="error_invalid_postal_format">Invalid postal code format.</string>
+    <string name="toast_order_success">Order for %1$s placed successfully!</string>
+    <string name="toast_order_failed">Failed to place order. Please try again.</string>
+    <string name="summary_format">Subtotal: %1$s\nShipping: %2$s\nTotal: %3$s</string>
+    <string name="placeholder_image_description">Order Image</string>
+    <string name="contact_us">contact_us</string>
+    <string name="started">Get Started</string>
+    <string-array name="materials_array">
+        <item>Cotton</item>
+        <item>Silk</item>
+        <item>Denim</item>
+        <item>Chiffon</item>
+        <item>Lace</item>
+        <item>Ankara</item>
+    </string-array>
+
+</resources>

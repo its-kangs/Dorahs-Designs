@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="payment_methods">
+        <item>M-Pesa</item>
+        <item>Credit Card</item>
+        <item>Bank Transfer</item>
+        <item>Cash on Delivery</item>
+    </string-array>
+
+</resources>

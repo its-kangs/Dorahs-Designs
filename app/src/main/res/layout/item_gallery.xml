@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="8dp"
+    android:padding="8dp"
+    android:gravity="center_horizontal"
+>
+    <ImageView
+    android:id="@+id/galleryImage"
+    android:layout_width="150dp"
+    android:layout_height="150dp"
+    android:background="@drawable/image_boarder"
+    android:contentDescription="@string/gallery_image"
+    android:padding="0dp"
+    android:scaleType="centerCrop"
+    android:layout_marginBottom="4dp"/>
+    <TextView
+    android:id="@+id/galleryItemName"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Elegant Gown"
+        android:textColor="@android:color/black"
+    android:textSize="16sp"
+    android:textStyle="bold"
+    android:maxLines="1"
+    android:ellipsize="end"/>
+    <TextView
+    android:id="@+id/galleryItemPrice"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Ksh 18000.00"
+        android:textColor="@android:color/darker_gray"
+    android:textSize="14sp"
+    android:layout_marginTop="2dp"/>
+
+</LinearLayout>
