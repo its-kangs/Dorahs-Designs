@@ -35,13 +35,13 @@ Admin dashboard
 Screenshots
 <html>
  <h3>Home Page</h3>
-<img src="images/home.png" width="250">
+<img src="images/home.png" width="150">
 
 <h3>Gallery Page</h3>
-<img src="images/gallery.png" width="250">
+<img src="images/gallery.png" width="150">
 
 <h3>Measurements Page</h3>
-<img src="images/measurements.png" width="250">
+<img src="images/measurements.png" width="150">
 
 
 
