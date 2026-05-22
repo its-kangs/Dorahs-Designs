@@ -33,15 +33,17 @@ Cloud database integration
 Admin dashboard
 
 Screenshots
+<html>
+ <h3>Home Page</h3>
+<img src="images/home.png" width="250">
 
- Home Page
-![Home Page](images/home.png)
+<h3>Gallery Page</h3>
+<img src="images/gallery.png" width="250">
 
- Gallery Page
-![Gallery Page](images/gallery.png)
+<h3>Measurements Page</h3>
+<img src="images/measurements.png" width="250">
 
- Measurements Page
-![Measurements Page](images/measurements.png)
+
 
 
 
