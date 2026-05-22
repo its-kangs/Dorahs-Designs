@@ -4,6 +4,7 @@ Dorah's Designs is an Android mobile application developed to help improve tailo
 
 The system aims to provide a more efficient and convenient way for customers and tailors to interact while helping small tailoring businesses grow and improve service delivery.
 
+
 Features
 User registration and login
 Profile management
@@ -19,6 +20,7 @@ Android Studio
 SQLite Database
 XML
 Git & GitHub
+
 Purpose
 
 This project was developed as an academic project and as a practical solution to support small tailoring businesses using mobile technology.
@@ -29,6 +31,20 @@ Appointment scheduling
 Real-time notifications
 Cloud database integration
 Admin dashboard
+
+Screenshots
+
+ Home Page
+![Home Page](images/home.png)
+
+ Gallery Page
+![Gallery Page](images/gallery.png)
+
+ Measurements Page
+![Measurements Page](images/measurements.png)
+
+
+
 Author
 
 Anita Alice
