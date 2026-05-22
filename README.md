@@ -35,7 +35,7 @@ Admin dashboard
 Screenshots
 
  Home Page
-![Home Page](images/home.png.jpeng)
+![Home Page](images/home.png)
 
  Gallery Page
 ![Gallery Page](images/gallery.png)
